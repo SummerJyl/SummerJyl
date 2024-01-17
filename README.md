@@ -12,7 +12,7 @@ I've being using HTML & CSS for 8+ years. I am a certified Front End Developer a
 
 * 🌍  I'm based in San Diego, CA
 * ✉️  You can contact me at [jylian\_summers@yahoo.com](mailto:jylian_summers@yahoo.com)
-* 🧠  MSome of my projects include: Employee Management System, Login page, Movie Guide app. 
+* 🧠  Some of my projects include: Employee Management System, Login page, Movie Guide app. 
 
 ### Skills
 
