@@ -10,9 +10,9 @@ Web Developer | Programmer
 
 I've being using HTML & CSS for 8+ years. I am a certified Front End Developer and Web Programmer.
 
-* 🌍  I'm based in San Diego, CA
-* ✉️  You can contact me at [jylian\_summers@yahoo.com](mailto:jylian_summers@yahoo.com)
-* 🧠  Some of my projects include: Employee Management System, Login page, Movie Player apps. 
+* I'm based in San Diego, CA
+* You can contact me at [jylian\_summers@yahoo.com](mailto:jylian_summers@yahoo.com)
+* Some of my projects include: Employee Management System, Login page, Movie Player apps. 
 
 ### Skills
 
