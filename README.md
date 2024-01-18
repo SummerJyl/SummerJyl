@@ -7,8 +7,7 @@ Hi! I'm Jylian Summers
 
 Web Developer | Programmer
 --------------------------
-
-I've being using HTML & CSS for 8+ years. I am a certified Front End Developer and Web Programmer.
+I am a certified full-stack developer and content creator. My coding projects are built from solving real-life problems, including design, ideation and planning.  
 
 * I'm based in San Diego, CA
 * You can contact me at [jylian\_summers@yahoo.com](mailto:jylian_summers@yahoo.com)
