@@ -32,5 +32,6 @@ I've being using HTML & CSS for 8+ years. I am a certified Front End Developer a
 <a href="https://stackoverflow.com/users/23255267/summerj" target="_blank" rel="noreferrer"> <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
+<img src="https://www.iconfinder.com/icons/1298710/stack_overflow_icon" width="32" height="32" /> </picture> </a>
+</p>
 
