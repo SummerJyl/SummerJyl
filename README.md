@@ -7,7 +7,7 @@ Jylian Summers | Content Creator | Web Developer
 
 Web Developer | Programmer
 --------------------------
-I am a certified full-stack developer and content creator. My coding projects are built from solving real-life problems, including design, ideation and planning.  
+I am a content creator and certified full-stack developer. My coding projects are built from solving real-life problems, including design, ideation and planning.  
 
 * I'm based in San Diego, CA
 * You can contact me at [jylian\_summers@yahoo.com](mailto:jylian_summers@yahoo.com)
