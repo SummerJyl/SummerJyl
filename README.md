@@ -2,12 +2,12 @@
 SummerJyl/SummerJyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Jylian Summers | Content Creator | Web Developer
+Jylian Summers | Digital Marketing | Web Developer
 ======================================================================================================================================
 
 Web Developer | Programmer
 --------------------------
-I am a content creator and certified full-stack developer. My coding projects are built from solving real-life problems, including design, ideation and planning.  
+I am a content creator, digital marketer and certified full-stack developer. My coding projects are built from solving real-life problems, including design, ideation and planning.  
 
 * I'm based in San Diego, CA
 * You can contact me at [jylian\_summers@yahoo.com](mailto:jylian_summers@yahoo.com)
