@@ -1,3 +1,3 @@
-Visual Studio Code - I use CSS, HTML and JavaScript to create a Coffee Shop landing page
+Visual Studio Code - I used CSS, HTML and JavaScript to create a Coffee Shop landing page.
 
 
