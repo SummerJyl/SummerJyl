@@ -12,7 +12,7 @@
 ✔ CSS hover effects
 ✔ Single page website
 
-👉 Links used in the video:
+✨ Links used in the video:
 Google fonts: https://fonts.google.com/
 Swiper: https://swiperjs.com/demos#thumbs-gal...
 Fontawesome: https://fontawesome.com/icons
