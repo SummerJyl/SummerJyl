@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <meta charset="UTF-8">
+        <meta 
+            name="viewport" 
+            content="width=device-width, initial-scale=1. minimum-scale=1, maximum-scale=1"
+        />
+        <title>DarbSound | Film</title>
+        <!-- CSS file -->
+        <link rel="stylesheet" href="style.css" />
+        <!-- Icons (font awesome)-->
+        <script src="https://kit.fontawesome.com/f81eec98b5.js" crossorigin="anonymous"></script>
+        <link
+            rel="stylesheet" 
+            href="https://cdnjs.cloudflare.con/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+            integrity="sha512-iecdLmask17CVkqkXNQ/XL1vWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+        />
+    <!-- Swiper CSS -->
+    <link
+    rel="stylesheet" 
+    href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+    </head>
+    <body>
+    <!-- Overlay -->
+    <div class="overlay">
+       <i class="fa-solid fa-times" onclick="closeOverlay();"></i>        
+       <div id="movie-trailer"></div>
+    </div>
+    <!-- Header Section -->
+    <header class="header">
+        <div class="logo">
+            <img src="Images/DarbSound Logo.png" alt="logo">
+        </div>
+        <nav>
+          <ul>
+            <li><a href="#">Spotlight</a></li>
+            <li><a href="#">News</a></li>
+            <li><a href="#">Film</a></li>
+            <li><a href="#">Contact Us</a></li>
+            <li>
+                <a href="#"><i class="fa-solid fa-magnifying-glass"></i></a>
+            </li>
+            <li>
+                <a href="#"><i class="fa-solid fa-user"></i></a>
+            </li>
+          </ul>
+        </nav>
+    </header>
+    <!-- Banner -->
+    <div class="banner">
+        <!-- Add swiper -->
+        <div class="swiper bannerSwiper">
+            <!-- Additional required wrapper -->
+            <div class="swiper-wrapper">
+                <!-- Slides -->
+                <div class="swiper-slide">
+                   <img src="Images/Suspiria.jpeg" alt="" />
+                </div>
+                <div class="swiper-slide">
+                   <img src="Images/DeepRed.jpeg" alt="" /> 
+                </div>
+                <div class="swiper-slide">
+                    <img src="Images/Inferno.jpeg" alt="">
+                </div>
+                <div class="swiper-slide">
+                    <img src="Images/Tenebre.jpeg" alt="">
+                </div>
+                <div class="swiper-slide">
+                    <img src="Images/Phenomena.jpeg" alt=""> 
+                </div>
+                <div class="swiper-slide">
+                    <img src="Images/BlackGlasses.jpeg" alt="">
+                </div>    
+            </div>
+        </div>
+    </div>
+    <!-- Content -->
+    <div class="content">
+        <div class="title">
+           <div id="title">
+                <h1>Susperia</h1>
+            </div>
+            <div id="sub-title">
+                <p>Horror</p>
+            </div>
+            <div class="rating">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <span>7.33/10</span>
+            </div>
+            <div class="buttons">
+                <button class="btn-sec">
+                    <i class="fa-solid fa-users"></i>
+                    reviews
+                </button>
+                <button class="btn-sec" onclick="showTrailer()">
+                    <i class="fa-solid fa-play"></i>
+                    trailer
+                </button>
+            </div>
+        </div>
+        <div class="desc">
+          <!--Swiper navigation buttons -->  
+          <div class="navigation-btn">
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+          </div>
+          <div  id="desc">
+            <p>
+                Susperia is a 1977 Italian supernatural
+                horror film directed by Dario Argento, 
+                who co-wrote the screenplay with Daria Nicolodi,
+                partially based on Thomas De Quincey's
+                1845 essay Suspiria de Profundis. 
+            </p>
+          </div>
+          <button class="btn-primary">
+            <i class="fa-regular fa-bell"></i>
+            request review
+          </button>
+        </div>
+        <!-- Swiper pagination -->
+        <div class="swiper-pagination"></div>
+        </div>
+        <!-- Movies Thumbs -->
+        
+    <div class="thumbs">
+        <div thumbsSlider="" class="swiper thumbsSwiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <img src="Images/DeepRed.jpeg" alt="">
+                </div>
+                <div class="swiper-slide">
+                    <img src="Images/Inferno.jpeg" alt="">
+                </div>
+                <div class="swiper-slide">
+                    <img src="Images/Tenebre.jpeg" alt="">
+                </div>
+                <div class="swiper-slide">
+                    <img src="Images/Phenomena.jpeg" alt="">
+                </div>
+                <div class="swiper-slide">
+                    <img src="Images/BlackGlasses.jpeg" alt="">
+                </div>
+                <div class="swiper-slide">
+                    <img src="Images/Susperia.jpeg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <!-- JS File -->
+    <script src="script.js"></script>   
+  </body>
+</html>
