@@ -12,7 +12,7 @@ I am a content creator, digital marketer and certified full-stack developer. My 
 * I'm based in San Diego, CA
 * You can contact me at [jylian\_summers@yahoo.com](mailto:jylian_summers@yahoo.com)
 * Some of my projects include: Employee Management System, VSC - Coffee Shop Landing page, Figma - Health Food Shop pages.
-* Currently working on: DB Film database using JavaScript, HTML, CSS and React for a movie database. 
+* Currently working on: DB Film database and Yoga website using JavaScript, HTML, CSS and React for a movie database. 
 
 ### Skills
 
