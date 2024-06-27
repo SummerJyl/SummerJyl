@@ -1,5 +1,5 @@
-I created this website landing page using the following:
-CSS, HTML and Vanilla JavaScript to create:
+Created website landing page using the following:
+CSS, HTML and Vanilla JavaScript:
 
 Fixed Navigation
 Hero Section
