@@ -129,13 +129,9 @@ Git • GitHub • VS Code • JIRA • Lighthouse • Postman
   </a>
 
   <!-- Pinterest -->
-  <a href="https://www.pinterest.com/socal_boho/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/pinterest-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/pinterest.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/pinterest.svg" width="32" height="32" alt="Pinterest" />
-    </picture>
-  </a>
+<a href="https://www.pinterest.com/socal_boho/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/pinterest/BD081C" width="32" height="32" alt="Pinterest" />
+</a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/socal_boho/" target="_blank" rel="noreferrer">
@@ -146,14 +142,10 @@ Git • GitHub • VS Code • JIRA • Lighthouse • Postman
     </picture>
   </a>
 
-  <!-- TikTok -->
-  <a href="https://www.tiktok.com/@jyliansmm" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok.svg" width="32" height="32" alt="TikTok" />
-    </picture>
-  </a>
+<!-- TikTok -->
+<a href="https://www.tiktok.com/@jyliansmm" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/tiktok/000000" width="32" height="32" alt="TikTok" />
+</a>
 
   <!-- YouTube (if used) -->
   <a href="https://www.youtube.com/@jyliansmm" target="_blank" rel="noreferrer">
