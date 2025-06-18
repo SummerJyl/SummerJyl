@@ -2,7 +2,7 @@
 SummerJyl/SummerJyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Hi, I'm Jylian Summers  
+# 🌿 Hi, I'm Jylian Summers  
 **Senior Full-Stack Web Developer | Digital Marketing Technologist | Creator**  
 📍 San Diego, CA | ✉️ jylian_summers@yahoo.com
 
@@ -44,11 +44,11 @@ Git • GitHub • VS Code • JIRA • Lighthouse • Postman
 
 ## 🚀 Featured Projects
 
-- **Employee Management System** – Internal HR tool using Node.js, MongoDB, RESTful API  
-- **Coffee Shop Landing Page** – Front-end marketing page w/ animations and responsive design  
-- **Health Food Store UX Mockups** – Figma-based wireframes for DTC eCommerce concept  
-- **Film Database App** _(in progress)_ – React + Vanilla JS + API project with dynamic searc
-
+- **Personal Finance Dashboard** – Interactive React app for tracking expenses, budgets, and spending trends with responsive design  
+- **Bio Health Data Explorer** – A health data visualization tool built with React and D3.js, featuring dynamic charts and filters to explore complex datasets
+- ****Coffee Shop App** - React-based UI project showcasing custom components and animations for a coffee shop ordering experience  
+- **Occulus Optical** – A stylish eyewear e-commerce site concept demonstrating modular React components and responsive design
+- **Film Database App** _(in progress)_ – React + Vanilla JS + API project focusing on data-driven UI, advanced search filters, and scalable architecture
 
 ## 🧰 Tech Stack
 
