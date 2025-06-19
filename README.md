@@ -47,8 +47,8 @@ Git • GitHub • VS Code • JIRA • Lighthouse • Postman
 - **Personal Finance Dashboard** – Interactive React app for tracking expenses, budgets, and spending trends with responsive design  
 - **Bio Health Data Explorer** – A health data visualization tool built with React and D3.js, featuring dynamic charts and filters to explore complex datasets
 - ****Coffee Shop App** - React-based UI project showcasing custom components and animations for a coffee shop ordering experience  
-- **Occulus Optical** – A stylish eyewear e-commerce site concept demonstrating modular React components and responsive design
-- **Film Database App** _(in progress)_ – React + Vanilla JS + API project focusing on data-driven UI, advanced search filters, and scalable architecture
+- **Occulus Optical** – React + Tailwind CSS e-commerce concept featuring modular components, product filtering, and cart functionality via Context API
+- **Film Database App** _(in progress)_ –React app with search, filters, and routing using Context API, React Router, and Axios for dynamic movie exploration
 
 ## 🧰 Tech Stack
 
