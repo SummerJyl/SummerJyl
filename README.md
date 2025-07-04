@@ -127,8 +127,9 @@ Built for performance and scalability
   <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" alt="GitHub" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" alt="VS Code" /></a>
   <a href="https://figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36" alt="Figma" /></a>
-  <a href="https://www.adobe.com/products/xd.html"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="36" alt="Adobe XD" /></a>
-</p>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="36" alt="Adobe XD" />
+</a>
 
 ### 🧩 CMS / Marketing / Analytics
 <p align="left">
