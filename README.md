@@ -3,55 +3,100 @@ SummerJyl/SummerJyl is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # 🌿 Hi, I'm Jylian Summers  
-**Senior Full-Stack Web Developer | Digital Marketing Technologist | Creator**  
+Senior Full-Stack Web Developer | ReactJS • Spring Boot • WordPress | Digital Marketing Technologist
 📍 San Diego, CA | ✉️ jylian_summers@yahoo.com
 
 ---
 
-I’m a certified full-stack web developer and digital marketing engineer with a passion for building clean, performant, and purposeful applications. My projects are driven by solving real business challenges — from user-friendly frontends to data-driven integrations.
+I build performant, accessible applications that connect frontend clarity with backend strength. From UX-driven ReactJS interfaces to API integrations and CMS platforms, I deliver scalable solutions that solve real business challenges.
 
-With a background in **ReactJS, Spring Boot, and HubSpot**, I bridge development and marketing to drive measurable outcomes.
+I’ve worked across SaaS, eCommerce, and biohealth domains — integrating analytics, SEO, and modern dev practices into full-stack workflows. I enjoy mentoring devs, collaborating with cross-functional teams, and contributing to the open-source community.
 
 ---
 
 ## 💼 Current Focus
 
-- Building scalable ReactJS frontends with responsive, accessible UIs  
-- Integrating APIs, CMS platforms, and analytics tools  
-- Creating full-stack web apps using JavaScript, MongoDB, Node.js, Spring Boot  
-- Collaborating with cross-functional teams (Design, SEO, Marketing Ops)
+- Leading front-end builds using React, TypeScript, and Next.js
+
+Developing full-stack apps with Spring Boot, Node.js, MongoDB
+
+Maintaining and customizing WordPress + integrating HubSpot / analytics
+
+Contributing to GitHub projects and helping in dev communities (React / WP / GraphQL)
 
 ---
 
 ## 🔧 Tech Stack
 
-**Languages & Frameworks**  
-ReactJS • JavaScript • HTML • CSS • Node.js • Spring Boot • MongoDB • SQL • Express
-
-**CMS & SaaS Tools**  
-WordPress • HubSpot • Umbraco • Shopify • Cascade CMS
-
-**Digital Marketing Tools**  
-Google Analytics 4 • Google Tag Manager • SEMrush • BrightEdge • Optimizely • Tealium
-
-**Design & UI/UX**  
-Figma • Adobe XD • Photoshop • Illustrator • After Effects
-
-**Dev Tools**  
-Git • GitHub • VS Code • JIRA • Lighthouse • Postman
+Languages & Frameworks: ReactJS • JavaScript • Node.js • Spring Boot • SQL • MongoDB
+CMS & Tools: WordPress • HubSpot • Umbraco • Shopify • Cascade CMS
+SEO & Analytics: GA4 • GTM • SEMrush • BrightEdge • Tealium • Optimizely
+Design & UI/UX: Figma • XD • Photoshop • After Effects
+Dev Tools: Git • GitHub • VS Code • Postman • Lighthouse • JIRA
 
 ---
 
 ## 🚀 Featured Projects
 
-- **Personal Finance Dashboard** – Interactive React app for tracking expenses, budgets, and spending trends with responsive design  
-- **Bio Health Data Explorer** – A health data visualization tool built with React and D3.js, featuring dynamic charts and filters to explore complex datasets
-- **NutriWell** - A responsive supplement landing page built with React, Tailwind CSS, and Webpack. Features include:
-- Lazy loading with `React.lazy()`
-- Custom modal and Swiper.js slider
-- Fully responsive mobile-first design  
-- **Occulus Optical** – React + Tailwind CSS e-commerce concept featuring modular components, product filtering, and cart functionality via Context API
-- **Film Database App** _(in progress)_ –React app with search, filters, and routing using Context API, React Router, and Axios for dynamic movie exploration
+🧾 Personal Finance Dashboard
+Stack: React, Chart.js, Context API, CSS Modules
+A responsive finance app for tracking budgets, spending trends, and income. Built with reusable components and dynamic chart visualizations.
+
+Dynamic filtering by category and date
+
+Chart.js integration for visual trends
+
+Context API for global state
+
+Clean UI with mobile-first layout
+Stack: React, D3.js, CSV Loader, Styled Components
+An interactive health data visualization tool that allows users to explore and filter large datasets through dynamic charts and UI components.
+
+CSV-to-D3 ingestion and parsing
+
+Filterable datasets and chart interactions
+
+D3 rendering with responsive containers
+
+Designed for bio health + research use cases
+
+🌿 NutriWell Landing Page
+Stack: React, Tailwind CSS, Swiper.js
+A fast-loading supplement product page featuring custom animations and responsive design.
+
+Modular components with React.lazy() and Suspense
+
+Custom modal and Swiper.js carousel
+
+Fully responsive and SEO-friendly
+
+Webpack configured for asset optimization
+
+👓 Occulus Optical Storefront (Concept)
+Stack: React, Tailwind CSS, Context API
+A mock eCommerce experience with product filtering, global cart state, and mobile responsiveness.
+
+Modular product cards and filtering logic
+
+Cart management using Context API
+
+Accessibility-first layout and keyboard nav
+
+Clean Tailwind utility styling
+
+🎬 Film Database App (Work in Progress)
+Stack: React, Axios, React Router, Context API
+A searchable movie browser featuring dynamic routing, filter options, and API data rendering.
+
+Search bar + genre-based filters
+
+Axios for async API calls to TMDb
+
+Context-based state and loading handlers
+
+Built for performance and scalability
+
+
 
 ## 🧰 Tech Stack
 
