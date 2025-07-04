@@ -15,8 +15,7 @@ I’ve worked across SaaS, eCommerce, and biohealth domains — integrating anal
 ---
 
 ## 💼 Current Focus
-
-- Leading front-end builds using React, TypeScript, and Next.js
+Leading front-end builds using React, TypeScript, and Next.js
 
 Developing full-stack apps with Spring Boot, Node.js, MongoDB
 
