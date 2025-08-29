@@ -3,98 +3,98 @@ SummerJyl/SummerJyl is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # 🌿 Hi, I'm Jylian Summers  
-Senior Full-Stack Web Developer | ReactJS • Spring Boot • WordPress | Digital Marketing Technologist
+Software Engineer | Backend Systems + Financial Applications + Cloud Infrastructure
 📍 San Diego, CA | ✉️ jylian_summers@yahoo.com
 
 ---
 
-I build performant, accessible applications that connect frontend clarity with backend strength. From UX-driven ReactJS interfaces to API integrations and CMS platforms, I deliver scalable solutions that solve real business challenges.
+I build secure, scalable backend systems and user-facing applications for regulated industries. With 8+ years of experience, I specialize in Python/Django, Node.js, React, and PostgreSQL — delivering production-ready solutions for healthcare, fintech, and enterprise clients.
 
-I’ve worked across SaaS, eCommerce, and biohealth domains — integrating analytics, SEO, and modern dev practices into full-stack workflows. I enjoy mentoring devs, collaborating with cross-functional teams, and contributing to the open-source community.
+My expertise spans API design, database optimization, payment processing integrations, and cloud deployments on AWS. I thrive in fast-paced startup environments and remote collaboration, consistently delivering clean, maintainable code through comprehensive testing and code review processes.
 
 ---
 
 ## 💼 Current Focus
-Leading front-end builds using React, TypeScript, and Next.js
-
-Developing full-stack apps with Spring Boot, Node.js, MongoDB
-
-Maintaining and customizing WordPress + integrating HubSpot / analytics
-
-Contributing to GitHub projects and helping in dev communities (React / WP / GraphQL)
+Building full-stack applications with React frontends and Node.js/Python backends
+Developing financial data systems and payment processing integrations
+Creating interactive data visualizations and dashboard applications
+Contributing to healthcare and fintech solutions with regulatory compliance
 
 ---
 
 ## 🔧 Tech Stack
 
-Languages & Frameworks: ReactJS • JavaScript • Node.js • Spring Boot • SQL • MongoDB
-CMS & Tools: WordPress • HubSpot • Umbraco • Shopify • Cascade CMS
-SEO & Analytics: GA4 • GTM • SEMrush • BrightEdge • Tealium • Optimizely
-Design & UI/UX: Figma • XD • Photoshop • After Effects
-Dev Tools: Git • GitHub • VS Code • Postman • Lighthouse • JIRA
+Backend: Node.js, Python/Django, TypeScript, RESTful APIs
+Frontend: React, JavaScript (ES6+), HTML5, CSS3
+Database: PostgreSQL, query optimization, data modeling
+Cloud: AWS (EC2, RDS, S3, Lambda), CI/CD pipelines
+Specialties: Payment systems, regulatory compliance, healthcare data, startup environments
+
+---
+
+🚀 Open to
+Contract-to-hire software engineering roles • Remote-first teams • Fintech/Proptech opportunities
 
 ---
 
 ## 🚀 Featured Projects
 
-🧾 Personal Finance Dashboard
-Stack: React, Chart.js, Context API, CSS Modules
-A responsive finance app for tracking budgets, spending trends, and income. Built with reusable components and dynamic chart visualizations.
+💰 Personal Finance Dashboard
+Stack: React, Node.js, Chart.js, PostgreSQL
+A full-stack finance application for tracking budgets and spending trends with secure backend API and dynamic visualizations.
 
-Dynamic filtering by category and date
+RESTful API with Node.js backend
+PostgreSQL database with optimized queries
+Chart.js integration for financial analytics
+Responsive React frontend with Context API
 
-Chart.js integration for visual trends
+🧬 Bio Health Data Explorer
+Stack: Python/Django, React, D3.js, PostgreSQL
+An interactive health data platform for exploring large datasets with secure backend processing and regulatory compliance.
 
-Context API for global state
+Django REST API for secure data handling
+PostgreSQL optimization for large datasets
+D3.js visualizations with React integration
+HIPAA-compliant data processing workflows
 
-Clean UI with mobile-first layout
-Stack: React, D3.js, CSV Loader, Styled Components
-An interactive health data visualization tool that allows users to explore and filter large datasets through dynamic charts and UI components.
+💳 Payment Processing System
+Stack: Node.js, Express, Stripe API, PostgreSQL
+A secure payment platform with transaction processing, fraud detection, and financial reporting capabilities.
 
-CSV-to-D3 ingestion and parsing
+Stripe integration with webhook handling
+Encrypted transaction storage and PCI compliance
+Real-time payment status tracking
+Comprehensive audit logging
 
-Filterable datasets and chart interactions
+🌿 NutriWell E-commerce Platform
+Stack: React, Node.js, MongoDB, Express
+A complete e-commerce solution with product management, cart functionality, and payment processing.
 
-D3 rendering with responsive containers
+Full-stack MERN implementation
+Secure authentication and user management
+Inventory tracking and order processing
+Mobile-responsive design with Tailwind CSS
 
-Designed for bio health + research use cases
+🛠 Tech Stack
+Backend Development:
 
-🌿 NutriWell Landing Page
-Stack: React, Tailwind CSS, Swiper.js
-A fast-loading supplement product page featuring custom animations and responsive design.
+Node.js, Python/Django, Express.js, RESTful APIs
+PostgreSQL, MongoDB, database optimization
+Payment APIs (Stripe), financial data processing
 
-Modular components with React.lazy() and Suspense
+Frontend Development:
 
-Custom modal and Swiper.js carousel
+React, JavaScript (ES6+), TypeScript, HTML5, CSS3
+Context API, React Router, responsive design
+D3.js, Chart.js for data visualization
 
-Fully responsive and SEO-friendly
+Cloud & DevOps:
 
-Webpack configured for asset optimization
+AWS (EC2, RDS, S3, Lambda), Git/GitHub, CI/CD
+Automated testing, code reviews, production deployment
 
-👓 Occulus Optical Storefront (Concept)
-Stack: React, Tailwind CSS, Context API
-A mock eCommerce experience with product filtering, global cart state, and mobile responsiveness.
-
-Modular product cards and filtering logic
-
-Cart management using Context API
-
-Accessibility-first layout and keyboard nav
-
-Clean Tailwind utility styling
-
-🎬 Film Database App (Work in Progress)
-Stack: React, Axios, React Router, Context API
-A searchable movie browser featuring dynamic routing, filter options, and API data rendering.
-
-Search bar + genre-based filters
-
-Axios for async API calls to TMDb
-
-Context-based state and loading handlers
-
-Built for performance and scalability
-
+🚀 Open to
+Software Engineer roles • Contract-to-hire opportunities • Remote-first teams • Fintech/Healthcare projects
 
 
 ## 🧰 Tech Stack
