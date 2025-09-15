@@ -2,42 +2,41 @@
 SummerJyl/SummerJyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 🌿 Hi, I'm Jylian Summers  
-Software Engineer | Backend Systems + Financial Applications + Cloud Infrastructure
+🌿 Hi, I'm Jylian Summers  
+Software Engineer | Full-Stack Development + Real-Time Data Processing + Scientific Computing
 📍 San Diego, CA | ✉️ jylian_summers@yahoo.com
 
 ---
 
-I build secure, scalable backend systems and user-facing applications for regulated industries. With 8+ years of experience, I specialize in Python/Django, Node.js, React, and PostgreSQL — delivering production-ready solutions for healthcare, fintech, and enterprise clients.
+I build robust, scalable systems across the full stack — from real-time data pipelines and backend infrastructure to user-facing applications. With deep experience in scientific computing and regulated data environments, I specialize in Python, JavaScript, React, and cloud-based distributed systems.
 
-My expertise spans API design, database optimization, payment processing integrations, and cloud deployments on AWS. I thrive in fast-paced startup environments and remote collaboration, consistently delivering clean, maintainable code through comprehensive testing and code review processes.
-
----
-
-## 💼 Current Focus
-Building full-stack applications with React frontends and Node.js/Python backends
-Developing financial data systems and payment processing integrations
-Creating interactive data visualizations and dashboard applications
-Contributing to healthcare and fintech solutions with regulatory compliance
+My expertise spans real-time data processing, API development, database optimization, and AWS cloud infrastructure. I thrive in fast-paced environments tackling complex technical challenges and rapidly adapting to new domains and cutting-edge technologies.
 
 ---
 
-## 🔧 Tech Stack
-
-Backend: Node.js, Python/Django, TypeScript, RESTful APIs
-Frontend: React, JavaScript (ES6+), HTML5, CSS3
-Database: PostgreSQL, query optimization, data modeling
-Cloud: AWS (EC2, RDS, S3, Lambda), CI/CD pipelines
-Specialties: Payment systems, regulatory compliance, healthcare data, startup environments
+💼 Current Focus
+Building full-stack systems for real-time data processing and scientific computing
+Developing distributed cloud infrastructure with high-performance data pipelines
+Creating robust backend systems with modern web frameworks and APIs
+Contributing to healthcare and scientific applications with regulatory compliance
 
 ---
 
-🚀 Open to
-Contract-to-hire software engineering roles • Remote-first teams • Fintech/Proptech opportunities
+🔧 Tech Stack
+
+Backend & Data: Python, Node.js, JavaScript, RESTful APIs, Real-time data processing
+Frontend: React, JavaScript (ES6+), Modern web frameworks, Data visualization
+Database: PostgreSQL, Redis, Distributed systems, Database optimization
+Cloud & Infrastructure: AWS (EC2, S3, CloudFront, ALB), CI/CD pipelines, Cloud deployment
+Specialties: Scientific computing, Real-time systems, Regulated data environments
 
 ---
 
-## 🚀 Featured Projects
+🚀 Open to cutting-edge technology roles • Full-stack development • Scientific computing • Deep tech startups
+
+---
+
+🚀 Featured Projects
 
 💰 Personal Finance Dashboard
 Stack: React, Node.js, Chart.js, PostgreSQL
@@ -49,53 +48,63 @@ Chart.js integration for financial analytics
 Responsive React frontend with Context API
 
 🧬 Bio Health Data Explorer
-Stack: Python/Django, React, D3.js, PostgreSQL
-An interactive health data platform for exploring large datasets with secure backend processing and regulatory compliance.
+Stack: Python/Django, React, D3.js, PostgreSQL, AWS
+A comprehensive real-time data processing system for scientific health data with secure backend infrastructure and regulatory compliance.
 
-Django REST API for secure data handling
-PostgreSQL optimization for large datasets
-D3.js visualizations with React integration
-HIPAA-compliant data processing workflows
+Real-time data processing with high-performance pipelines
+AWS cloud infrastructure with distributed architecture
+Scientific data management with complex workflow processing
+PostgreSQL optimization for large-scale data processing
+Secure APIs with regulatory compliance protocols
+
+💰 Personal Finance Dashboard
+Stack: React, Node.js, Chart.js, PostgreSQL
+A full-stack financial application with real-time data processing and dynamic visualizations.
+
+RESTful API with Node.js backend
+Real-time data processing for financial analytics
+PostgreSQL with optimized query performance
+React frontend with responsive data visualization
 
 💳 Payment Processing System
 Stack: Node.js, Express, Stripe API, PostgreSQL
-A secure payment platform with transaction processing, fraud detection, and financial reporting capabilities.
+A secure, high-throughput payment platform with real-time transaction processing and fraud detection.
 
-Stripe integration with webhook handling
-Encrypted transaction storage and PCI compliance
-Real-time payment status tracking
-Comprehensive audit logging
+Real-time payment processing with webhook handling
+Distributed system architecture for high availability
+Encrypted data storage with audit compliance
+Performance optimization for high-volume transactions
 
 🌿 NutriWell E-commerce Platform
 Stack: React, Node.js, MongoDB, Express
-A complete e-commerce solution with product management, cart functionality, and payment processing.
+A complete full-stack e-commerce solution with inventory management and real-time order processing.
 
-Full-stack MERN implementation
+Full-stack MERN implementation with scalable architecture
+Real-time inventory tracking and order processing
 Secure authentication and user management
-Inventory tracking and order processing
-Mobile-responsive design with Tailwind CSS
+Mobile-responsive design with modern UI frameworks
 
-🛠 Tech Stack
-Backend Development:
+🛠 Technical Expertise
+Backend & Data Processing:
 
-Node.js, Python/Django, Express.js, RESTful APIs
-PostgreSQL, MongoDB, database optimization
-Payment APIs (Stripe), financial data processing
+Python, Node.js, JavaScript, RESTful APIs
+Real-time data processing, Scientific computing
+PostgreSQL, MongoDB, Redis, Database optimization
 
-Frontend Development:
+Full-Stack Development:
 
-React, JavaScript (ES6+), TypeScript, HTML5, CSS3
-Context API, React Router, responsive design
-D3.js, Chart.js for data visualization
+React, Modern web frameworks, JavaScript (ES6+)
+Data visualization (D3.js, Chart.js), Responsive design
+Full-stack architecture, API integration
 
-Cloud & DevOps:
+Cloud & Infrastructure:
 
-AWS (EC2, RDS, S3, Lambda), Git/GitHub, CI/CD
-Automated testing, code reviews, production deployment
+AWS (EC2, S3, CloudFront, ALB), Distributed systems
+CI/CD pipelines, Cloud deployment, System monitoring
+High-performance infrastructure, Scalable architecture
 
 🚀 Open to
-Software Engineer roles • Contract-to-hire opportunities • Remote-first teams • Fintech/Healthcare projects
-
+Software Engineer roles • Deep tech startups • Scientific computing • Real-time systems • Full-stack development
 
 ## 🧰 Tech Stack
 
