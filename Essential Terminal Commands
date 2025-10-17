@@ -1,0 +1,91 @@
+Essential Terminal Commands
+cat - Display file contents
+
+bash
+cat filename.txt              # Show entire file
+cat .gitignore               # View gitignore file
+cat package.json             # View package.json
+
+ls - List files
+bash
+ls                           # List files in current directory
+ls -la                       # List ALL files with details (including hidden)
+ls -la | grep -i public      # List files, filter for "public"
+ls public/images/            # List files in specific folder
+
+pwd - Print working directory
+bash
+pwd                          # Shows where you are (current folder path)
+
+cd - Change directory
+bash
+cd Portfolio                 # Go into Portfolio folder
+cd ..                        # Go up one level
+cd ~                         # Go to home directory
+cd -                         # Go back to previous directory
+
+grep - Search for text
+bash
+grep "images" .gitignore     # Find "images" in .gitignore file
+grep -n "images" .gitignore  # Same, but show line numbers
+cat .gitignore | grep image  # Show only lines containing "image"
+
+echo - Print text (or add to files)
+bash
+echo "Hello"                 # Print to screen
+echo "node_modules/" >> .gitignore  # Append line to file
+
+mkdir - Make directory
+bash
+mkdir newfolder              # Create folder
+mkdir -p .github/workflows   # Create nested folders (creates parent if needed)
+
+rm - Remove files/folders
+bash
+rm file.txt                  # Delete file
+rm -rf foldername            # Delete folder and contents (BE CAREFUL!)
+
+mv - Move/rename
+bash
+mv oldname.txt newname.txt   # Rename file
+mv file.txt folder/          # Move file to folder
+
+cp - Copy
+bash
+cp file.txt backup.txt       # Copy file
+cp -r folder1 folder2        # Copy folder and contents
+
+Git-Specific Commands
+bash
+git status                   # Show what's changed
+git log --oneline -5         # Show last 5 commits
+git ls-files folder/         # Show tracked files in folder
+git check-ignore -v file     # Check if file is ignored (and why)
+git branch                   # Show current branch
+
+
+Combining Commands (Pipes)
+bash
+ls -la | grep public         # List files, filter for "public"
+cat .gitignore | grep -n image  # Show .gitignore lines with "image" + line numbers
+git status | head -20        # Show first 20 lines of git status
+
+Common Patterns
+Check if file/folder exists:
+bash
+ls -la filename
+ls -la foldername/
+
+See what's in a config file:
+bash
+cat vite.config.js
+cat package.json
+cat .gitignore
+
+Search for something in a file:
+bashgrep "search term" filename
+
+Navigate to project:
+bash
+cd ~/Portfolio              # Or wherever your project is
+pwd                         # Confirm you're there
