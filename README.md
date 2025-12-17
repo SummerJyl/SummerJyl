@@ -133,8 +133,8 @@ High-performance infrastructure, Scalable architecture
 
 ### 🛠️ Dev Tools
 <p align="left">
-  <a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="36" /></a>
-  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" alt="GitHub" /></a>
+  <a href="https://git-scm.com"><img src="https://cdn.simpleicons.org/git/white" alt="Git" width="36" /></a>
+  <a href="https://github.com"><img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="36" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" alt="VS Code" /></a>
   <a href="https://figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36" alt="Figma" /></a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
