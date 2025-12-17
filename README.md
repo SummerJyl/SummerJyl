@@ -109,7 +109,7 @@ High-performance infrastructure, Scalable architecture
 
 ### 💻 Languages
 <p align="left">
-  <img src="raw.githubusercontent.com" alt="Python" width="36" />
+  <a href="https://www.python.org" target="_blank"><img src="raw.githubusercontent.com" alt="python" width="36"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" alt="CSS3" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" /></a>
