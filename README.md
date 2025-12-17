@@ -129,6 +129,8 @@ High-performance infrastructure, Scalable architecture
 <p align="left">
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB" /></a>
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL" /></a>
+  <a href="https://redis.io" target="_blank"><img src="https://cdn.simpleicons.org/redis/white" alt="Redis" width="36" /></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://cdn.simpleicons.org/mysql/white" alt="MySQL" width="36" /></a>
 </p>
 
 ### 🛠️ Dev Tools
