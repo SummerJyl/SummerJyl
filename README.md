@@ -38,72 +38,40 @@ Contributing to healthcare and scientific applications with regulatory complianc
 ---
 
 🚀 Featured Projects
-
-💰 Personal Finance Dashboard
-Stack: React, Node.js, Chart.js, PostgreSQL
-A full-stack finance application for tracking budgets and spending trends with secure backend API and dynamic visualizations.
-
-RESTful API with Node.js backend
-PostgreSQL database with optimized queries
-Chart.js integration for financial analytics
-Responsive React frontend with Context API
-
 🧬 Bio Health Data Explorer
-Stack: Python/Django, React, D3.js, PostgreSQL, AWS
-A comprehensive real-time data processing system for scientific health data with secure backend infrastructure and regulatory compliance.
+Stack: Python/Django, React, PostgreSQL, AWS
+A real-time data processing system for scientific health data with secure backend infrastructure and regulatory compliance.
 
-Real-time data processing with high-performance pipelines
+Real-time data pipelines with high-performance processing
 AWS cloud infrastructure with distributed architecture
-Scientific data management with complex workflow processing
-PostgreSQL optimization for large-scale data processing
+PostgreSQL optimization for large-scale data
 Secure APIs with regulatory compliance protocols
 
 💰 Personal Finance Dashboard
 Stack: React, Node.js, Chart.js, PostgreSQL
-A full-stack financial application with real-time data processing and dynamic visualizations.
+Full-stack finance application for tracking budgets and spending trends with secure backend API and dynamic visualizations.
 
 RESTful API with Node.js backend
-Real-time data processing for financial analytics
-PostgreSQL with optimized query performance
-React frontend with responsive data visualization
+PostgreSQL with optimized queries
+Chart.js integration for financial analytics
+Responsive React frontend with Context API
 
 💳 Payment Processing System
 Stack: Node.js, Express, Stripe API, PostgreSQL
-A secure, high-throughput payment platform with real-time transaction processing and fraud detection.
+Secure, high-throughput payment platform with real-time transaction processing and fraud detection.
 
 Real-time payment processing with webhook handling
 Distributed system architecture for high availability
 Encrypted data storage with audit compliance
-Performance optimization for high-volume transactions
 
-🌿 NutriWell E-commerce Platform
-Stack: React, Node.js, MongoDB, Express
-A complete full-stack e-commerce solution with inventory management and real-time order processing.
-
-Full-stack MERN implementation with scalable architecture
-Real-time inventory tracking and order processing
-Secure authentication and user management
-Mobile-responsive design with modern UI frameworks
 
 🛠 Technical Expertise
-Backend & Data Processing:
-
-Python, Node.js, JavaScript, RESTful APIs
-Real-time data processing, Scientific computing
-PostgreSQL, MongoDB, Redis, Database optimization
-
-Full-Stack Development:
-
-React, Modern web frameworks, JavaScript (ES6+)
-Data visualization (D3.js, Chart.js), Responsive design
-Full-stack architecture, API integration
-
+Backend & Data:
+Python (expert), Node.js, Ruby on Rails, Java/Spring Boot | PostgreSQL, MongoDB, Redis | RESTful APIs, Microservices, Real-time data processing
+Frontend:
+React, Vue.js, TypeScript, JavaScript (ES6+) | Data visualization (D3.js, Chart.js) | Responsive design, Modern UI frameworks
 Cloud & Infrastructure:
-
-AWS (EC2, S3, CloudFront, ALB), Distributed systems
-CI/CD pipelines, Cloud deployment, System monitoring
-High-performance infrastructure, Scalable architecture
-
+AWS (certified: EC2, S3, Lambda, RDS) | Azure, Kubernetes, Docker | CI/CD pipelines, Distributed systems, Observability
 
 ## 🧰 Tech Stack
 
