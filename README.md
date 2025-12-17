@@ -24,12 +24,13 @@ Contributing to healthcare and scientific applications with regulatory complianc
 
 ---
 
-🔧 Tech Stack:
-- Frontend: React, Vue.js, TypeScript, JavaScript (ES6+)
-- Backend: Python (expert), Node.js, Ruby on Rails, Java/Spring Boot
-- Data: PostgreSQL, MySQL, Redis
-- Cloud: AWS (certified), Azure, Kubernetes, Docker
-- Focus: APIs, microservices, data pipelines, observability
+🛠 Technical Expertise
+Backend & Data:
+Python (expert), Node.js, Ruby on Rails, Java/Spring Boot | PostgreSQL, MongoDB, Redis | RESTful APIs, Microservices, Real-time data processing
+Frontend:
+React, Vue.js, TypeScript, JavaScript (ES6+) | Data visualization (D3.js, Chart.js) | Responsive design, Modern UI frameworks
+Cloud & Infrastructure:
+AWS (certified: EC2, S3, Lambda, RDS) | Azure, Kubernetes, Docker | CI/CD pipelines, Distributed systems, Observability
 
 ---
 
@@ -64,56 +65,3 @@ Real-time payment processing with webhook handling
 Distributed system architecture for high availability
 Encrypted data storage with audit compliance
 
-
-🛠 Technical Expertise
-Backend & Data:
-Python (expert), Node.js, Ruby on Rails, Java/Spring Boot | PostgreSQL, MongoDB, Redis | RESTful APIs, Microservices, Real-time data processing
-Frontend:
-React, Vue.js, TypeScript, JavaScript (ES6+) | Data visualization (D3.js, Chart.js) | Responsive design, Modern UI frameworks
-Cloud & Infrastructure:
-AWS (certified: EC2, S3, Lambda, RDS) | Azure, Kubernetes, Docker | CI/CD pipelines, Distributed systems, Observability
-
-## 🧰 Tech Stack
-
-### 💻 Languages
-<p align="left">
- <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" /></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" alt="Java" /></a>
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p align="left">
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" alt="React" /></a>
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js" /></a>
- <a href="https://rubyonrails.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="36" /></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" alt="Spring Boot" /></a>
-  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" alt="Express.js" /></a>
-</p>
-
-### 🗃️ Databases
-<p align="left">
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL" /></a>
-  <a href="https://redis.io" target="_blank"><img src="https://cdn.simpleicons.org/redis/white" alt="Redis" width="36" /></a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://cdn.simpleicons.org/mysql/white" alt="MySQL" width="36" /></a>
-</p>
-
-### 🛠️ Dev Tools
-<p align="left">
-  <a href="https://git-scm.com"><img src="https://cdn.simpleicons.org/git/white" alt="Git" width="36" /></a>
-  <a href="https://github.com"><img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="36" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" alt="VS Code" /></a>
-  <a href="https://figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36" alt="Figma" /></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="36" alt="Adobe XD" />
-</a>
-
-### 🧩 CMS / Marketing / Analytics
-<p align="left">
-  <a href="https://wordpress.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="36" alt="WordPress" /></a>
-  <a href="https://hubspot.com"><img src="https://cdn.worldvectorlogo.com/logos/hubspot.svg" width="36" alt="HubSpot" /></a>
-  <a href="https://analytics.google.com/"><img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="36" alt="Google Analytics" /></a>
-</p>
