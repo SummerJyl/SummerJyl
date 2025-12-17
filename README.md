@@ -3,14 +3,16 @@ SummerJyl/SummerJyl is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 🌿 Hi, I'm Jylian Summers  
-Software Engineer | Full-Stack Development + Real-Time Data Processing + Scientific Computing
-📍 San Diego, CA | ✉️ jylian_summers@yahoo.com
+Senior Full Stack Engineer | React + Node.js + Python + Cloud Architecture | AWS Certified
+📍 San Diego, CA | ✉️ jylians.dev@gmail.com
 
 ---
 
-I build robust, scalable systems across the full stack — from real-time data pipelines and backend infrastructure to user-facing applications. With deep experience in scientific computing and regulated data environments, I specialize in Python, JavaScript, React, and cloud-based distributed systems.
+Senior Full Stack Engineer with 8+ years building scalable, high-performance web applications using React, Node.js, Python, Ruby on Rails, and PostgreSQL. AWS certified with expertise in cloud architecture, serverless applications, and distributed systems.
 
-My expertise spans real-time data processing, API development, database optimization, and AWS cloud infrastructure. I thrive in fast-paced environments tackling complex technical challenges and rapidly adapting to new domains and cutting-edge technologies.
+I specialize in architecting APIs, optimizing databases, and delivering mission-critical applications for healthcare and complex domains. My work spans real-time data processing pipelines, microservices architecture, and AI-integrated workflows.
+
+As a technical leader, I mentor teams, drive architectural decisions, and balance rapid iteration with long-term scalability. I thrive in ambiguous, fast-paced environments where engineering shapes product strategy.
 
 ---
 
@@ -22,17 +24,16 @@ Contributing to healthcare and scientific applications with regulatory complianc
 
 ---
 
-🔧 Tech Stack
-
-Backend & Data: Python, Node.js, JavaScript, RESTful APIs, Real-time data processing
-Frontend: React, JavaScript (ES6+), Modern web frameworks, Data visualization
-Database: PostgreSQL, Redis, Distributed systems, Database optimization
-Cloud & Infrastructure: AWS (EC2, S3, CloudFront, ALB), CI/CD pipelines, Cloud deployment
-Specialties: Scientific computing, Real-time systems, Regulated data environments
+🔧 Tech Stack:
+- Frontend: React, Vue.js, TypeScript, JavaScript (ES6+)
+- Backend: Python (expert), Node.js, Ruby on Rails, Java/Spring Boot
+- Data: PostgreSQL, MySQL, Redis
+- Cloud: AWS (certified), Azure, Kubernetes, Docker
+- Focus: APIs, microservices, data pipelines, observability
 
 ---
 
-🚀 Open to cutting-edge technology roles • Full-stack development • Scientific computing • Deep tech startups
+🚀 Open to senior full-stack engineering opportunities leveraging cloud architecture, AI integration, and scalable system design.
 
 ---
 
@@ -103,8 +104,6 @@ AWS (EC2, S3, CloudFront, ALB), Distributed systems
 CI/CD pipelines, Cloud deployment, System monitoring
 High-performance infrastructure, Scalable architecture
 
-🚀 Open to
-Software Engineer roles • Deep tech startups • Scientific computing • Real-time systems • Full-stack development
 
 ## 🧰 Tech Stack
 
